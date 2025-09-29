@@ -12,7 +12,7 @@ matplotlib3.7.2
 
 Code file:
 
-cnn: This folder contains the complete implementation process of the quantum system evolution predictor, including data collection, network construction, and its training and testing.
+rnn: This folder contains the complete implementation process of the quantum system evolution predictor, including data collection, network construction, and its training and testing.
 
 dqn_main.py: The main program for the reinforcement learning component—execute this code to initiate QDTS's training.
 
